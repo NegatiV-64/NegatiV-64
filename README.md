@@ -1,18 +1,43 @@
-### Hello there 👋
+<p align="center">
+  <img style="margin: 0 auto" alt="header-pic" width="50%" src="https://raw.githubusercontent.com/NegatiV-64/NegatiV-64/main/img/header-pic.jpg">
+</p>
 
+<h1>Hello there 👋</h1>
 
+<h3>:page_facing_up: About Me:</h3>
 
-<!--
-**NegatiV-64/NegatiV-64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+const myBio = {
+    name: "Aziz",
+    surname: "Bektemirov",
+    age: new Date().getFullYear()-2000 + "years old",
+    from: "Tashkent, Uzbekistan",
+    university: "Webster University",
+    major: "MIS"
+}
+```
 
-Here are some ideas to get you started:
+<h3>:pushpin: My Skills:</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+const mySkills = {
+    languages: "HTML, CSS, JavaScript, PHP",
+    ide: "VS Code, CLion, Sublime, Notepad",
+    libraries: "jQuery",
+    frameworks: "Bootstrap",
+    databases :"MySql, PostgreSQL, MariaDB"
+}
+```
+
+<h3>:bulb: What I would like to learn:</h3>
+
+```
+const plansToLearn = [
+    "React.js",
+    "Node.js",
+    "Vue.js",
+    "Swift",
+    "Flutter",
+    "UI/UX Design"
+]
+```
