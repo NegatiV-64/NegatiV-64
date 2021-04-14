@@ -19,7 +19,7 @@ const myBio = {
 
 <h3>:pushpin: My Skills:</h3>
 
-```
+```js
 const mySkills = {
     languages: "HTML, CSS, JavaScript, PHP",
     ide: "VS Code, CLion, Sublime, Notepad",
@@ -31,7 +31,7 @@ const mySkills = {
 
 <h3>:bulb: What I would like to learn:</h3>
 
-```
+```js
 const plansToLearn = [
     "React.js",
     "Node.js",
