@@ -22,6 +22,8 @@ const myBio = {
 I am a <strong>front-end developer</strong>, currently working for <a href="https://latmedia.uz">LatMedia Group</a>. However, my interests are not stick with front-end world, but also I like to learn more in the world of programming.
 
 # 🚀 What I Use
+
+There are a lot of stuff that I actually used, use and will use during my work as front-end developer. I believe that nowadays, we, as developers should try more and more things that we can actually use in our work.
 ## 📰 Core
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=CSS3&logoColor=blue)
