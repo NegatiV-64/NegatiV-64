@@ -19,7 +19,7 @@ const myBio = {
 
 # ⚡️ What I do:
 
-I am a <strong>front-end developer</strong>, currently working for <a href="https://latmedia.uz">LatMedia Group</a>. However, my interests are not stick with front-end world, but also I like to learn more in the world of programming.
+I am a <strong>front-end developer</strong>, currently working for Alfakon Systems. However, my interests are not stick with front-end world, but also I like to learn more in the world of programming.
 
 # 🚀 What I Use
 
